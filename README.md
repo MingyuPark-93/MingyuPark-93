@@ -1,7 +1,6 @@
 <h1 align="center">Hi there 👋 I'm Mingyu!</h1>
 
-<h3 align="center">✨ Autonomous Driving System and Artificial Intelligence Algorithm Development✨</h3>
-
+<h3 align="center">✨ Autonomous Driving System and Artificial Intelligence Algorithm Development✨</h3>  
 - 🌱 I’m currently learning deep learning and control theory for autonomous driving system.
 
 <!--
