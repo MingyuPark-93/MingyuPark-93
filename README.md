@@ -1,5 +1,7 @@
-<center>Hi there 👋 I'm Mingyu!</center>
+# <center>Hi there 👋 I'm Mingyu!</center>
+
 - - -
+
 ✨ Autonomous Driving System and Artificial Intelligence Algorithm Development✨
 
 <!--
