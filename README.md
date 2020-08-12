@@ -1,6 +1,6 @@
-<p align="center">Hi there 👋 I'm Mingyu!</p>
+<h1 align="center">Hi there 👋 I'm Mingyu!</h1>
 
-✨ Autonomous Driving System and Artificial Intelligence Algorithm Development✨
+<h3 align="center">✨ Autonomous Driving System and Artificial Intelligence Algorithm Development✨</h3>
 
 <!--
 **MinkyPark/MinkyPark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
